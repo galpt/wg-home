@@ -9,8 +9,8 @@ This is just another WG installer project, but with the assumption that the user
 - Run the script; and
 - Follow the setup instructions
 ```
-$ git clone https://github.com/galpt/wg-opt.git
-$ cd wg-opt
+$ git clone https://github.com/galpt/wg-home.git
+$ cd wg-home
 $ bash wireguard-install.sh
 ```
 
