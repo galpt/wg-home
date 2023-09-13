@@ -11,7 +11,7 @@ This is just another WG installer project, but with the assumption that the user
 ```
 $ git clone https://github.com/galpt/wg-home.git
 $ cd wg-home
-$ bash wireguard-install.sh
+$ sudo bash wireguard-install.sh
 ```
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
